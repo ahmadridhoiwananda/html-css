@@ -1,0 +1,43 @@
+.heroku {
+    text-align: center;  
+}
+
+.heroku h1 {
+    text-align: center;
+    margin-top: -100px;
+    color: aqua;
+}
+
+.heroku h2 {
+    text-align: center;
+    color: lightblue;
+}
+
+
+.hero2 {
+    width: 330px;
+    padding-top: 40px;
+    margin-left: 80px;
+    float: left;
+    text-align: center;
+}
+
+.hero3 {
+    width: 330px;
+    padding-top: 40px;
+    margin-left: 90px;
+    float: left;
+    text-align: center;
+}
+
+.hero4 {
+    width: 330px;
+    padding-top: 40px;
+    margin-left: 95px;
+    float: left;
+    text-align: center;
+}
+
+
+
+
